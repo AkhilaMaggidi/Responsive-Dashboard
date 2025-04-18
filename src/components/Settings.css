@@ -1,0 +1,89 @@
+.settings-container {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1rem;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.settings-container h2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group label {
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"] {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.form-group input.error {
+  border-color: #e74c3c;
+}
+
+.error-message {
+  color: #e74c3c;
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+}
+
+.checkbox-group {
+  flex-direction: row;
+  align-items: center;
+}
+
+.checkbox-group label {
+  font-weight: normal;
+}
+
+.submit-button {
+  background-color: #007bff;
+  color: white;
+  padding: 0.75rem;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+}
+
+/* Dark mode */
+.dark .settings-container {
+  background-color: #1f1f1f;
+  box-shadow: none;
+}
+
+.dark .form-group input[type="text"],
+.dark .form-group input[type="email"] {
+  background-color: #333;
+  border-color: #555;
+  color: #eee;
+}
+
+.dark .submit-button {
+  background-color: #0056b3;
+}
+
+.dark .submit-button:hover {
+  background-color: #003d7a;
+}

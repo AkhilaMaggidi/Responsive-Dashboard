@@ -1,0 +1,41 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+.layout-body {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+.main-content {
+  flex: 1;
+  padding: 1rem;
+  overflow-y: auto;
+  background-color: var(--background-color);
+}
+
+/* Dark mode variables */
+:root {
+  --background-color: #ffffff;
+  --text-color: #333333;
+}
+
+.dark {
+  --background-color: #121212;
+  --text-color: #e0e0e0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .layout-body {
+    flex-direction: column;
+  }
+  .main-content {
+    padding: 0.5rem;
+  }
+}
