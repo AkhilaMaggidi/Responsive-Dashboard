@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Responsive-Dashboard/static/css/main.f855e6bc.css",
+    "main.js": "/Responsive-Dashboard/static/js/main.625da9bb.js",
+    "static/css/119.3f083407.chunk.css": "/Responsive-Dashboard/static/css/119.3f083407.chunk.css",
+    "static/js/119.01ea4c55.chunk.js": "/Responsive-Dashboard/static/js/119.01ea4c55.chunk.js",
+    "static/css/766.5d3cb214.chunk.css": "/Responsive-Dashboard/static/css/766.5d3cb214.chunk.css",
+    "static/js/766.06b17986.chunk.js": "/Responsive-Dashboard/static/js/766.06b17986.chunk.js",
+    "static/css/179.7970fee6.chunk.css": "/Responsive-Dashboard/static/css/179.7970fee6.chunk.css",
+    "static/js/179.9a143385.chunk.js": "/Responsive-Dashboard/static/js/179.9a143385.chunk.js",
+    "static/js/273.1544d413.chunk.js": "/Responsive-Dashboard/static/js/273.1544d413.chunk.js",
+    "static/js/453.972a898e.chunk.js": "/Responsive-Dashboard/static/js/453.972a898e.chunk.js",
+    "static/js/592.051d044f.chunk.js": "/Responsive-Dashboard/static/js/592.051d044f.chunk.js",
+    "index.html": "/Responsive-Dashboard/index.html",
+    "main.f855e6bc.css.map": "/Responsive-Dashboard/static/css/main.f855e6bc.css.map",
+    "main.625da9bb.js.map": "/Responsive-Dashboard/static/js/main.625da9bb.js.map",
+    "119.3f083407.chunk.css.map": "/Responsive-Dashboard/static/css/119.3f083407.chunk.css.map",
+    "119.01ea4c55.chunk.js.map": "/Responsive-Dashboard/static/js/119.01ea4c55.chunk.js.map",
+    "766.5d3cb214.chunk.css.map": "/Responsive-Dashboard/static/css/766.5d3cb214.chunk.css.map",
+    "766.06b17986.chunk.js.map": "/Responsive-Dashboard/static/js/766.06b17986.chunk.js.map",
+    "179.7970fee6.chunk.css.map": "/Responsive-Dashboard/static/css/179.7970fee6.chunk.css.map",
+    "179.9a143385.chunk.js.map": "/Responsive-Dashboard/static/js/179.9a143385.chunk.js.map",
+    "273.1544d413.chunk.js.map": "/Responsive-Dashboard/static/js/273.1544d413.chunk.js.map",
+    "453.972a898e.chunk.js.map": "/Responsive-Dashboard/static/js/453.972a898e.chunk.js.map",
+    "592.051d044f.chunk.js.map": "/Responsive-Dashboard/static/js/592.051d044f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.625da9bb.js"
+  ]
+}

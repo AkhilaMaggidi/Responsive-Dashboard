@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkresponsvedashboard=self.webpackChunkresponsvedashboard||[]).push([[273],{3273:(s,a,e)=>{e.r(a),e.d(a,{default:()=>r});e(5043);var n=e(579);const r=()=>(0,n.jsxs)("div",{children:[(0,n.jsx)("h2",{children:"Analytics Page"}),(0,n.jsx)("p",{children:"This will contain analytics charts and reports."})]})}}]);
+//# sourceMappingURL=273.1544d413.chunk.js.map
